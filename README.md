@@ -18,7 +18,7 @@ Read the CSV file which should be attached to the code runner.
 Give the commands to print LinearRegression and also the predicted CO2 for corresponding weights
 
 ### Step5
-End the program
+End the program.
 
 
 ## Program:
