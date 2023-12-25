@@ -20,7 +20,6 @@ Give the commands to print LinearRegression and also the predicted CO2 for corre
 ### Step5
 End the program.
 
-
 ## Program:
 ```
 '''
